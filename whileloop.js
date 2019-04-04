@@ -5,6 +5,6 @@ while(a<12)
     console.log(a);
 sum=sum+a;
     a++;
-    console.log(a);
+    
 }
 console.log("sum is: "+sum);
